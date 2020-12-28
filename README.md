@@ -3,10 +3,10 @@ This repository is a Java Web Application based on MVC Model 2 using Filter as M
 
 ## You will find in this repo:
 * [Requirements](https://www.facebook.com/profile.php?id=100010366447002)
-* [Source](https://www.facebook.com/profile.php?id=100010366447002)
-* [Database](https://www.facebook.com/profile.php?id=100010366447002)
-* [Libraries](https://www.facebook.com/profile.php?id=100010366447002)
-* [.gitigore](https://www.facebook.com/profile.php?id=100010366447002)
+* [Source](https://github.com/vycao412/HotelBooking/tree/master/HotelBooking)
+* [Database](https://github.com/vycao412/HotelBooking/blob/master/script.sql)
+* [Library](https://github.com/vycao412/HotelBooking/tree/master/Library)
+* [.gitigore](https://github.com/vycao412/HotelBooking/blob/master/.gitignore)
 * Markdown code - this file itself
 
 ## Connect me via
